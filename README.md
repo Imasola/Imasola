@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi
 
-<!--
-**Imasola/Imasola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 One vision. No name. No ego.
 
-Here are some ideas to get you started:
+Building something bigger than myself -  
+a database - decentralised - for all of humanity. Not for profit.  
+Not for fame. Because it needs to exist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⟁ Still learning. Still early.  
+But the direction doesn't waver.
+
+---
+
+✦ Digital nomad · somewhere on this planet  
+✦ Open source · open mind · open future · **OpenGen**
+
+---
+
+> If you believe knowledge belongs to everyone -  
+> you might belong to this project.
+
+↳ All help welcome. No CV needed. Just intent.
